@@ -125,3 +125,10 @@ h3 {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
+/* readme  */
+.readme {
+    margin: 1rem;
+}
+.readme h1 {
+    font-size: 1.5rem;
+}
